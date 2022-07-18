@@ -35,7 +35,7 @@
 # Task 1: Data Understanding and Preparation
            # 1. read flo_data_20K.csv.
            # 2.
-                     # a. First 10 onsservation in the data set,
+                     # a. First 10 observation in the data set,
                      # b. Variable names,
                      # c. Descriptive statistics,
                      # d. null values,
