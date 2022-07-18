@@ -79,7 +79,7 @@ pd.set_option('display.float_format', lambda x: '%.2f' % x)
 pd.set_option('display.width',1000)
 
 # 1.1
-df_ = pd.read_csv("Modül_2_CRM_Analitigi/Dataset/flo_data_20K.csv")
+df_ = pd.read_csv("/Dataset/flo_data_20K.csv")
 df = df_.copy()
 df.head()
 
